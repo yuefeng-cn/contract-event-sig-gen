@@ -12,8 +12,8 @@
 
 # 示例
 
-![示例1](readme/img/1.png)
-![示例2](readme/img/2.png)
+![示例1](readme/imgs/1.png)
+![示例2](readme/imgs/2.png)
 
 # 安装方法：
 + 克隆仓库
